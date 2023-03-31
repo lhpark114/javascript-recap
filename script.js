@@ -1,4 +1,3 @@
-
 let fruits = [
   "🍓",
   "🍌",
@@ -26,3 +25,6 @@ fruits.forEach((item) => {console.log(item)})
 
 // return 'index'? // 
 fruits.forEach((item, index) => {console.log(item, index)})
+
+
+
